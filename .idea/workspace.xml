@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44fc659b-dbfc-44aa-9332-e463ed6ccc45" name="Default Changelist" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interfaces.php" afterDir="false" />
+    <list default="true" id="44fc659b-dbfc-44aa-9332-e463ed6ccc45" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/abstract.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xml.php" beforeDir="false" afterPath="$PROJECT_DIR$/xml.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +49,10 @@
       <recent name="C:\Users\C.Zurli\PhpstormProjects\php" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.interfaces.php">
+  <component name="RunManager" selected="PHP Script.abstract.php">
+    <configuration name="abstract.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/abstract.php">
+      <method v="2" />
+    </configuration>
     <configuration name="class-ereditarieta.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/class-ereditarieta.php">
       <method v="2" />
     </configuration>
@@ -71,6 +72,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.abstract.php" />
         <item itemvalue="PHP Script.interfaces.php" />
         <item itemvalue="PHP Script.class-ereditarieta.php" />
         <item itemvalue="PHP Script.class.php" />
@@ -98,7 +100,7 @@
       <workItem from="1603380776199" duration="210000" />
       <workItem from="1603381091659" duration="4000" />
       <workItem from="1603441797172" duration="853000" />
-      <workItem from="1603456789965" duration="4702000" />
+      <workItem from="1603456789965" duration="6727000" />
     </task>
     <task id="LOCAL-00002" summary="init commit">
       <created>1603380909578</created>
@@ -121,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603459994997</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="init commit">
+      <created>1603461564350</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603461564350</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
