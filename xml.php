@@ -15,9 +15,4 @@ foreach ($xml->channel->title as $item) {
     echo $item->title;
 }
 
-
-
-
-
-
 ?>
