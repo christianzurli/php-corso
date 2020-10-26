@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44fc659b-dbfc-44aa-9332-e463ed6ccc45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/abstract.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="44fc659b-dbfc-44aa-9332-e463ed6ccc45" name="Default Changelist" comment="init commit">
+      <change afterPath="$PROJECT_DIR$/array funzioni.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funzione anonima e variabile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scope.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorgenti_corso/Functions/algebra.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorgenti_corso/Functions/anonym.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorgenti_corso/Functions/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorgenti_corso/Functions/scope.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorgenti_corso/Functions/typed-func.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorgenti_corso/Functions/visibility.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tabelline for.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typed-functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visibility.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php-corso-udemy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +27,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
   </component>
   <component name="GithubProjectSettings">
     <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="php-corso" />
@@ -41,28 +54,29 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\chris\PhpstormProjects\php-corso" />
       <recent name="C:\Users\C.Zurli\PhpstormProjects\php" />
     </key>
   </component>
   <component name="RunManager" selected="PHP Script.abstract.php">
-    <configuration name="abstract.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/abstract.php">
+    <configuration name="abstract.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/../php-corso-udemy/abstract.php">
       <method v="2" />
     </configuration>
-    <configuration name="class-ereditarieta.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/class-ereditarieta.php">
+    <configuration name="class-ereditarieta.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/../php-corso-udemy/class-ereditarieta.php">
       <method v="2" />
     </configuration>
-    <configuration name="class.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/class.php">
+    <configuration name="class.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/../php-corso-udemy/class.php">
       <method v="2" />
     </configuration>
-    <configuration name="interfaces.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/interfaces.php">
+    <configuration name="interfaces.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/../php-corso-udemy/interfaces.php">
       <method v="2" />
     </configuration>
-    <configuration name="xml.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/xml.php">
+    <configuration name="xml.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/../php-corso-udemy/xml.php">
       <CommandLine>
         <PhpTestInterpreterSettings>
           <option name="interpreterName" value="PHP 7.2" />
@@ -101,6 +115,7 @@
       <workItem from="1603381091659" duration="4000" />
       <workItem from="1603441797172" duration="853000" />
       <workItem from="1603456789965" duration="6727000" />
+      <workItem from="1603701675739" duration="421000" />
     </task>
     <task id="LOCAL-00002" summary="init commit">
       <created>1603380909578</created>
@@ -135,6 +150,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
