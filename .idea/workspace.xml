@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44fc659b-dbfc-44aa-9332-e463ed6ccc45" name="Default Changelist" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/array funzioni.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/funzione anonima e variabile.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scope.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorgenti_corso/Functions/algebra.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorgenti_corso/Functions/anonym.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorgenti_corso/Functions/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorgenti_corso/Functions/scope.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorgenti_corso/Functions/typed-func.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorgenti_corso/Functions/visibility.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tabelline for.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/typed-functions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/visibility.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php-corso-udemy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +34,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../laragon/bin/php/php-7.4.11-Win32-vc15-x64/php.exe" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -64,9 +51,6 @@
     </key>
   </component>
   <component name="RunManager" selected="PHP Script.abstract.php">
-    <configuration name="abstract.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/../php-corso-udemy/abstract.php">
-      <method v="2" />
-    </configuration>
     <configuration name="class-ereditarieta.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/../php-corso-udemy/class-ereditarieta.php">
       <method v="2" />
     </configuration>
@@ -116,6 +100,8 @@
       <workItem from="1603441797172" duration="853000" />
       <workItem from="1603456789965" duration="6727000" />
       <workItem from="1603701675739" duration="421000" />
+      <workItem from="1603702141012" duration="197000" />
+      <workItem from="1603702801234" duration="86000" />
     </task>
     <task id="LOCAL-00002" summary="init commit">
       <created>1603380909578</created>
@@ -145,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603461564350</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="init commit">
+      <created>1603702192015</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603702192015</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +154,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
